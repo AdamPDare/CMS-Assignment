@@ -7,6 +7,7 @@ Partition the Data: training and test data <br>
 Look at minimum & maximum acceleration & orientation <br>
 Machine learning activity classifier <br>
 Select & train model <br>
+Test the model<br>
 Deep learning stages <br>
 Optimise Variable usage (clear them when possible) <br>
 
