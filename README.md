@@ -2,6 +2,7 @@
 Computer Modelling Assignment. Human Activity Classifier
 
 Tasks to do:
+            Partition Data: training and test data
             Machine learning activity classifier
             Select & train model
             Deep learning stages
