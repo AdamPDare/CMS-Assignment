@@ -13,10 +13,10 @@ Optimise Variable usage (clear them when possible) <br>
 
 
 
-**Tasks Completed:**
+**Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
 Adam Dare: Clean input data and store it all in one timetable. Includes: Acceleration, Orientation, Timestamp and classification (That it is walking)
   
-**Everyone:**
+**Completed:**
 -------------------------------------------------------------------------------------------------------------
 Basic Step Counter based off the link given
