@@ -15,8 +15,9 @@ Optimise Variable usage (clear them when possible) <br>
 
 **Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
-Adam Dare: Clean input data and store it all in one timetable. Includes: Acceleration, Orientation, Timestamp and classification (That it is walking)
+
   
 **Completed:**
 -------------------------------------------------------------------------------------------------------------
 Basic Step Counter based off the link given
+Adam Dare: Clean input data and store it all in one timetable. Includes: Acceleration, Orientation, Timestamp and classification (That it is walking)
