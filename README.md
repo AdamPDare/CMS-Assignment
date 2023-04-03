@@ -5,9 +5,6 @@
 -------------------------------------------------------------------------------------------------------------
 
 Look at minimum & maximum acceleration & orientation <br>
-Machine learning activity classifier <br>
-Select & train model <br>
-Test the model<br>
 Deep learning stages <br>
 Optimise Variable usage (clear them when possible) <br>
 
@@ -15,7 +12,9 @@ Optimise Variable usage (clear them when possible) <br>
 
 **Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
-
+Select & train model <br>
+Machine learning activity classifier <br>
+Test the model<br>
   
 **Completed:**
 -------------------------------------------------------------------------------------------------------------
