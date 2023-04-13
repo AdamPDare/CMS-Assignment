@@ -12,7 +12,7 @@ Optimise Variable usage (clear them when possible) <br>
 
 **Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
-
+ Adding a scatter graph displaying correct and incorrect predictions (FOR DEMO)
   
 **Completed:**
 -------------------------------------------------------------------------------------------------------------
