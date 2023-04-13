@@ -8,6 +8,7 @@ Look at minimum & maximum acceleration & orientation <br>
 Deep learning stages <br>
 Optimise Variable usage (clear them when possible) <br>
 
+CMS Presentation Slides <br>
 
 
 **Tasks Working on:**
