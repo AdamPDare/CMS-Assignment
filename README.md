@@ -16,9 +16,12 @@ Optimise Variable usage (clear them when possible) <br>
   
 **Completed:**
 -------------------------------------------------------------------------------------------------------------
-Basic Step Counter based off the link given <br>
-Adam Dare: Clean input data and store it all in one timetable. Includes: Acceleration, Orientation, Timestamp and classification (That it is walking) <br>
+Everyone: Collect training and testing data for classifier <br>
+Everyone: Basic Step Counter based off the link given <br>
+Everyone: Trained various models to achieve highest accuracy <br>
+
+Adam Dare: Clean input data and store it all in one timetable. Includes: Acceleration, Orientation, Timestamp and classification <br>
 Adam Dare: Partition the Data: training and test data <br>
-Select & train model <br>
-Machine learning activity classifier <br>
-Test the model<br>
+Adam Dare: Selected a Model and tested it <br>
+Adam Dare: Machine learning activity classifier for demo <br>
+
