@@ -13,7 +13,7 @@ CMS Presentation Slides <br>
 
 **Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
- Adding a scatter graph displaying correct and incorrect predictions (FOR DEMO)
+ Adding a scatter graph displaying correct and incorrect predictions (FOR DEMO) <br>
  Adam Dare: Deep learning stages <br>
   
 **Completed:**
