@@ -5,7 +5,6 @@
 -------------------------------------------------------------------------------------------------------------
 
 Look at minimum & maximum acceleration & orientation <br>
-Deep learning stages <br>
 Optimise Variable usage (clear them when possible) <br>
 
 CMS Presentation Slides <br>
@@ -14,7 +13,7 @@ CMS Presentation Slides <br>
 **Tasks Working on:**
 -------------------------------------------------------------------------------------------------------------
  Adding a scatter graph displaying correct and incorrect predictions (FOR DEMO) <br>
- Adam Dare: Deep learning stages <br>
+
   
 **Completed:**
 -------------------------------------------------------------------------------------------------------------
@@ -26,4 +25,4 @@ Adam Dare: Clean input data and store it all in one timetable. Includes: Acceler
 Adam Dare: Partition the Data: training and test data <br>
 Adam Dare: Selected a Model and tested it <br>
 Adam Dare: Machine learning activity classifier for demo <br>
-
+ Adam Dare: Deep learning stages <br>
